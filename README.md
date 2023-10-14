@@ -1,6 +1,6 @@
 ### Hello future unemployer 😎
 
-I'm Marley, and you can see my portfolio [here](marley-web.dev)!
+I'm Marley, and you can see my portfolio [here](https://marley-web.dev)!
 Studying Computer Science at UNSW.
 2023年にJLPT N1を取得
 
